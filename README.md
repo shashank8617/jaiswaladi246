@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently seeking opportunity
 
-- 🌱 I’m currently learning **DevSecOps & Cloud Devops**
+-  **Cloud Devops AWS Azure**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shashank8617](https://github.com/shashank8617)
 
-- 💬 Ask me about **DevOps & Cloud DevOps**
+- 💬 Ask me about **Cloud Devops AWS Azure**
 
 - 📫 How to reach me **shashank.karigowda@gmail.com**
 
