@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Shashank</h1>
-<div align="center"> <img src="[https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/256079855/original/75ebcb3f68143f27c4f0ed5d6360e0d56c64a2d5/be-your-devops-engineer.jpeg)"> </div>
+<div align="center"> <img src="https://github.com/shashank8617/projects/blob/main/13429_ILL_DevOpsLoop.png"> </div>
 <h3 align="center">A passionate DevOps Engineer  
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
