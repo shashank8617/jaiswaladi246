@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm Shashank</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png"> </div>
-<h3 align="center">A passionate DevOps Engineer From India. 
+<h3 align="center">A passionate DevOps Engineer  
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank8617&label=Profile%20views&color=0e75b6&style=flat" alt="shashank8617" /> </p>
